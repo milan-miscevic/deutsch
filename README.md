@@ -4,7 +4,7 @@
 
 _Note: Work in progress._
 
-Notes from my learning of the German language using [Duolingo](https://github.com/duolingo).
+This repository provides notes from my learning of the German language using [Duolingo](https://github.com/duolingo).
 
 Live: https://milan-miscevic.github.io/deutsch/
 
@@ -12,4 +12,4 @@ Live: https://milan-miscevic.github.io/deutsch/
 
 1. One place for notes.
 1. Use GitHub Pages.
-1. Eventually experiment with some new HTML / CSS / JS / ReactJS features.
+1. Eventually experiment with some new HTML / CSS / JS features.

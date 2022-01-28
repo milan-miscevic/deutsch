@@ -4,7 +4,7 @@
 
 _Note: Work in progress._
 
-This repository provides notes from my learning of the German language using [Duolingo](https://github.com/duolingo).
+This repository provides notes from my learning of the German language using mostly [Duolingo](https://github.com/duolingo).
 
 Live: https://milan-miscevic.github.io/deutsch/
 

@@ -16,6 +16,6 @@ p.types > span, p.example > span {
     border: 2px #1d7212 solid !important;
 }
 
-a {
+p.example > a {
     border: 2px white solid;
 }

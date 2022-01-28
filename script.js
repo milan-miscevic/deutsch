@@ -3,6 +3,7 @@ document.addEventListener('DOMContentLoaded', function () {
   wordOrder = [
     'subject',
     'verb',
+    'sich',
     'es-das',
     'personal',
     'time',

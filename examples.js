@@ -78,5 +78,13 @@ const examples = [
     'direct': 'das Produkt',
     'last': 'gekauft haben',
     'source': 'https://forum.duolingo.com/comment/11847640/You-will-have-bought-the-product-in-December',
+  }, {
+    'subject': 'Ich selbst',
+    'verb': 'würde',
+    'sich': 'mich',
+    'es-das': 'das',
+    'time': 'niemals',
+    'last': 'trauen',
+    'source': 'https://www.bayerische-staatszeitung.de/staatszeitung/leben-in-bayern/detailansicht-leben-in-bayern/artikel/ich-selbst-wuerde-mich-das-niemals-trauen.html#topPosition',
   }
 ];

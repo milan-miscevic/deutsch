@@ -1,4 +1,4 @@
-# Irregular verbs (Unregelmäßige Verben)
+# Unregelmäßige Verben
 
 | Infinitiv   | Präteritum | Partizip II | Präsens            |
 | ----------- | ---------- | ----------- | ------------------ |

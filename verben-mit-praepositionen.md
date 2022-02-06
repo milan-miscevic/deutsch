@@ -8,6 +8,8 @@
 * gehören zu
 * halten für
 * suchen nach
+* übertragen auf
+* verstecken vor
 * warten auf
 
 ## Reflexive

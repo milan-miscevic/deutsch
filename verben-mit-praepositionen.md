@@ -1,15 +1,16 @@
 # Verben mit Präpositionen
 
 * abhängen von
-* denken an
+* bestehen aus
+* denken an + Akk
 * erzählen von
 * fragen nach
-* gehen um
 * gehören zu
 * halten für
-* suchen nach
+* stehen auf
+* suchen (nach)
 * übertragen auf
-* verstecken vor
+* **verstecken vor** - Was versteckst du von mir?
 * warten auf
 
 ## Reflexive

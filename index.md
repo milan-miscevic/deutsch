@@ -1,7 +1,8 @@
 # Deutsch
 
-* [Textteile](textteile)
-* [Unregelmäßige Verben](unregelmaessige-verben)
-* [Unsortiert](unsortiert)
-* [Verben mit Präpositionen](verben-mit-praepositionen)
+* [Phrasen](phrasen.md)
+* [Textteile](textteile.md)
+* [Unregelmäßige Verben](unregelmaessige-verben.md)
+* [Unsortiert](unsortiert.md)
+* [Verben mit Präpositionen](verben-mit-praepositionen.md)
 * [Wortstellung](wortstellung.htm)

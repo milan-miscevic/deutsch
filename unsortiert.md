@@ -16,6 +16,8 @@ einzig
 ## Verben mit Präfixen
 
 - (an)kommen
+- (an)sehen
+- (ver)bringen
 - (ver)dienen
 - (ver)folgen
 - (ver)heiraten
@@ -24,4 +26,5 @@ einzig
 - (ver)passen
 - (ver)schlossen
 - (ver)stecken + vor
+- (ver)teilen
 - (weg)werfen

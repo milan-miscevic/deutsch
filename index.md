@@ -1,6 +1,7 @@
 # Deutsch
 
 * [Phrasen](phrasen.md)
+* [Präpositionen](prapositionen.md)
 * [Textteile](textteile.md)
 * [Unregelmäßige Verben](unregelmaessige-verben.md)
 * [Unsortiert](unsortiert.md)

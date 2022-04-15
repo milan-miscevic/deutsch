@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Deu</title>
+<style>
+button {
+    height: 50px;
+    width: 80px;
+}
+.word {
+    font-size: 20px;
+}
+</style>
+</head>
+
+<body>
+
+<p>
+    <span id="result">0 / 0 (0 %)</span> - <span id="lastWord">~</span>
+    <br><br>
+    <input type="hidden" id="gender" value="das">
+    <span id="word" class="word">Haus</span>
+</p>
+
+<p>
+    <button value="der" onClick="check('der')">der</button>
+    <button value="die" onClick="check('die')">die</button>
+    <button value="das" onClick="check('das')">das</button>
+</p>
+
+<p>
+    <span id="english">house, home</span>
+</p>
+
+<script src="words.js"></script>
+<script src="controller.js"></script>
+
+</body>
+
+</html>

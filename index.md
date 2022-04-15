@@ -1,5 +1,6 @@
 # Deutsch
 
+* [Artikel Spiel](artikel-spiel/gender.htm)
 * [Phrasen](phrasen.md)
 * [Präpositionen](prapositionen.md)
 * [Textteile](textteile.md)

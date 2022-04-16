@@ -27,5 +27,5 @@ function check(guessedGender)
 
     lastWord.innerHTML = gender.value + ' ' + word.innerHTML;
     gender.value = words[i][1];
-    word.innerHTML = words[i][0];
+    word.innerHTML = '<a href="https://en.wiktionary.org/wiki/' + words[i][0] + '">' + words[i][0] + '</a>';
 }

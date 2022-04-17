@@ -40,4 +40,4 @@ for (let i = 0; i < words.length; i++) {
   }
 }
 
-console.log(correct/total);
+document.getElementById("correctness").innerHTML = correct/total;

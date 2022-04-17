@@ -21,6 +21,7 @@ var endings = [
   ['e', 'die'],
 ];
 
+outer:
 for (let i = 0; i < words.length; i++) {
   if (words[i][2] === 'komposition') {
     continue;
@@ -31,7 +32,7 @@ for (let i = 0; i < words.length; i++) {
   for (let j = 0; j < endings.length; j++) {
     if (words[i][0].endsWith(endings[j][0]) && words[i][1] === endings[j][1]) {
       correct++;
-      continue;
+      continue outer;
     }
   }
 

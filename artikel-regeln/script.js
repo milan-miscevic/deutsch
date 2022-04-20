@@ -1,4 +1,5 @@
 var correct = 0;
+var unmatched = 0;
 var total = 0;
 
 var endings = [
@@ -23,7 +24,7 @@ var endings = [
 
 outer:
 for (const [word, meta] of Object.entries(words)) {
-  if (meta[1] === 'komposition') {
+  if (meta[1] !== '') {
     continue;
   }
 
@@ -38,7 +39,13 @@ for (const [word, meta] of Object.entries(words)) {
 
   if (meta[0] === 'der') {
     correct++;
+  } else {
+    unmatched++;
+    var element = document.createElement('li', word);
+    element.innerHTML = word;
+    document.getElementById("list").appendChild(element);
   }
 }
 
+document.getElementById("unmatched").innerHTML = unmatched;
 document.getElementById("correctness").innerHTML = correct/total;

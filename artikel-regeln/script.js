@@ -41,8 +41,8 @@ for (const [word, meta] of Object.entries(words)) {
     correct++;
   } else {
     unmatched++;
-    var element = document.createElement('li', word);
-    element.innerHTML = word;
+    var element = document.createElement('li');
+    element.innerHTML = meta[0] + ' ' + word;
     document.getElementById("list").appendChild(element);
   }
 }

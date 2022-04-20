@@ -23,9 +23,10 @@ function check(guessedGender)
 
     // new word
 
-    var i = Math.floor(Math.random() * words.length - 0.000000000001);
+    var keys = Object.keys(words);
+    var key = keys[Math.floor(Math.random() * keys.length - 0.000000000001)];
 
     lastWord.innerHTML = gender.value + ' ' + word.innerHTML;
-    gender.value = words[i][1];
-    word.innerHTML = '<a href="https://en.wiktionary.org/wiki/' + words[i][0] + '">' + words[i][0] + '</a>';
+    gender.value = words[key][0];
+    word.innerHTML = '<a href="https://en.wiktionary.org/wiki/' + key + '">' + key + '</a>';
 }

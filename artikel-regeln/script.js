@@ -22,21 +22,21 @@ var endings = [
 ];
 
 outer:
-for (let i = 0; i < words.length; i++) {
-  if (words[i][2] === 'komposition') {
+for (const [word, meta] of Object.entries(words)) {
+  if (meta[1] === 'komposition') {
     continue;
   }
 
   total++;
 
   for (let j = 0; j < endings.length; j++) {
-    if (words[i][0].endsWith(endings[j][0]) && words[i][1] === endings[j][1]) {
+    if (word.endsWith(endings[j][0]) && meta[0] === endings[j][1]) {
       correct++;
       continue outer;
     }
   }
 
-  if (words[i][1] === 'der') {
+  if (meta[0] === 'der') {
     correct++;
   }
 }

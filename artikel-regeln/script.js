@@ -2,6 +2,13 @@ var correct = 0;
 var unmatched = 0;
 var total = 0;
 
+var meanings = {
+  compass: 'der',
+  female: 'die',
+  foreign: 'das',
+  male: 'der',
+};
+
 var endings = [
   ['schaft', 'die'],
   ['chen', 'das'],
@@ -24,6 +31,12 @@ var endings = [
 
 outer:
 for (const [word, meta] of Object.entries(words)) {
+  if (typeof meanings[meta[2]] !== 'undefined' && meta[0] === meanings[meta[2]]) {
+    correct++;
+    total++;
+    continue;
+  }
+
   if (meta[2] !== '') {
     continue;
   }

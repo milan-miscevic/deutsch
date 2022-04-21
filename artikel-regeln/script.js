@@ -3,7 +3,9 @@ var unmatched = 0;
 var total = 0;
 
 var toLearn = {
+  'E-Mail': 'die', // die Post, die Nachricht
   CD: 'die',
+  Erlaubnis: 'die',
 };
 
 var meanings = {

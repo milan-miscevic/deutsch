@@ -350,7 +350,7 @@ var words = {
   Fortschritt: ["der", null, ""],
   Fortsetzung: ["die", null, ""],
   Foto: ["das", null, ""],
-  Fotoapparat: ["der", null, "apparat"],
+  Fotoapparat: ["der", null, "Apparat"],
   Fotografie: ["die", null, ""],
   Frage: ["die", null, ""],
   Frau: ["die", null, ""],

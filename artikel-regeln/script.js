@@ -24,7 +24,7 @@ var endings = [
 
 outer:
 for (const [word, meta] of Object.entries(words)) {
-  if (meta[1] !== '') {
+  if (meta[2] !== '') {
     continue;
   }
 

@@ -2,6 +2,10 @@ var correct = 0;
 var unmatched = 0;
 var total = 0;
 
+var toLearn = {
+  CD: 'die',
+};
+
 var meanings = {
   compass: 'der',
   female: 'die',
@@ -31,13 +35,19 @@ var endings = [
 
 outer:
 for (const [word, meta] of Object.entries(words)) {
+  if (typeof toLearn[word] !== 'undefined' && meta[0] === toLearn[word]) {
+    correct++;
+    total++;
+    continue;
+  }
+
   if (typeof meanings[meta[2]] !== 'undefined' && meta[0] === meanings[meta[2]]) {
     correct++;
     total++;
     continue;
   }
 
-  if (meta[2] !== '') {
+  if (meta[2] !== '' && typeof meanings[meta[2]] === 'undefined') {
     continue;
   }
 

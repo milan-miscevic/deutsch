@@ -1,21 +1,22 @@
 # Präpositionen
 
-| Genitiv    | G/D     | Dativ     | D/A      | Akkusativ |
-| ---------- | ------- | --------- | -------- | --------- |
-| angesichts | laut    | aus       | an       | bis       |
-| angesichts | statt   | außer     | auf      | durch     |
-| anlässlich | trotz   | bei       | hinter   | entlang   |
-| anstatt    | während | gegenüber | in       | für       |
-| aufgrund   | wegen   | mit       | neben    | gegen     |
-| außerhalb  |         | nach      | über     | ohne      |
-| diesseits  |         | seit      | unter    | um        |
-| infolge    |         | zu        | vor      |           |
-| innerhalb  |         | von       | zwischen |           |
-| jenseits   |         |           |          |           |
-| kraft      |         |           |          |           |
-| längs      |         |           |          |           |
-| mittels    |         |           |          |           |
-| oberhalb   |         |           |          |           |
-| seitens    |         |           |          |           |
-| unterhalb  |         |           |          |           |
-| zugunsten  |         |           |          |           |
+| Genitiv     | G/D     | Dativ     | D/A      | Akkusativ |
+| ----------- | ------- | --------- | -------- | --------- |
+| angesichts  | laut    | ab        | an       | bis       |
+| angesichts  | statt   | aus       | auf      | durch     |
+| anlässlich  | trotz   | außer     | hinter   | entlang   |
+| anstatt     | während | bei       | in       | für       |
+| aufgrund    | wegen   | gegenüber | neben    | gegen     |
+| außerhalb   |         | gemäß     | über     | ohne      |
+| diesseits   |         | mit       | unter    | um        |
+| infolge     |         | nach      | vor      |           |
+| innerhalb   |         | seit      | zwischen |           |
+| jenseits    |         | zu        |          |           |
+| kraft       |         | von       |          |           |
+| längs       |         |           |          |           |
+| mittels     |         |           |          |           |
+| oberhalb    |         |           |          |           |
+| seitens     |         |           |          |           |
+| unterhalb   |         |           |          |           |
+| zugunsten   |         |           |          |           |
+| zuungunsten |         |           |          |           |

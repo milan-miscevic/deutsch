@@ -1,4 +1,4 @@
-var words = {
+var nouns = {
   "CD-ROM": ["die", null, "foreign"],
   "E-Mail": ["die", null, "foreign"],
   "S-Bahn": ["die", null, "Bahn"],

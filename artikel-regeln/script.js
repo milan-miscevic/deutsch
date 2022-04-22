@@ -36,7 +36,7 @@ var endings = [
 ];
 
 outer:
-for (const [word, meta] of Object.entries(words)) {
+for (const [word, meta] of Object.entries(nouns)) {
   if (typeof toLearn[word] !== 'undefined' && meta[0] === toLearn[word]) {
     correct++;
     total++;

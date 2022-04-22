@@ -11,9 +11,11 @@
 * suchen (nach)
 * übertragen auf
 * **verstecken vor** - Was versteckst du von mir?
+* verzichten (auf)
 * warten auf
 
 ## Reflexive
 
 * sich freuen über
 * sich kümmern um
+* sich verlieben in

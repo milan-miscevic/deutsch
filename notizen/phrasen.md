@@ -9,6 +9,7 @@
 * einen Besuch abstatten
 * es geht um
 * etwas im Griff haben
+* folgen + Dativ
 * im Internet
 * im Norden/Osten/Süden/Westen
 * in der Regel
@@ -16,6 +17,7 @@
 * jemandem die Daumen drücken
 * mit Absicht
 * mit einiger Mühe
+* sich merken + Dativ
 * vor Neugier sterben
 * zu Gast sein (Er ist in Berlin zu Gast)
 * zum Schweigen bringen

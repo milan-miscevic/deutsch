@@ -1,18 +1,60 @@
 # Unregelmäßige Verben
 
+## 1a (ei - i - i)
+
+| Infinitiv  | Präteritum | Partizip II | Präsens |
+| ---------- | ---------- | ----------- | ------- |
+| schreiten  | schritt    | geschritten |         |
+| schneiden  | schnitt    | geschnitten |         |
+| schmeißen  | schmiss    | geschmissen |         |
+| beißen     | biss       | gebissen    |         |
+| bleichen   | blich      | geblichen   |         |
+| gleichen   | glich      | geglichen   |         |
+| gleiten    | glitt      | geglitten   |         |
+| greifen    | griff      | gegriffen   |         |
+| leiden     | litt       | gelitten    |         |
+| pfeifen    | pfiff      | gepfiffen   |         |
+| reißen     | riss       | gerissen    |         |
+| reiten     | ritt       | geritten    |         |
+| scheißen   | schiss     | geschissen  |         |
+| schleichen | schlich    | geschlichen |         |
+| schleifen  | schliff    | geschliffen |         |
+| spleißen   | spliss     | gesplissen  |         |
+| streichen  | strich     | gestrichen  |         |
+| streiten   | stritt     | gestritten  |         |
+| weichen    | wich       | gewichen    |         |
+
+## 1b (ei - ie - ie)
+
+| Infinitiv | Präteritum | Partizip II | Präsens |
+| --------- | ---------- | ----------- | ------- |
+| bleiben   | blieb      | geblieben   |         |
+| gedeihen  | gedieh     | gediehen    |         |
+| leihen    | lieh       | geliehen    |         |
+| meiden    | mied       | gemieden    |         |
+| reiben    | rieb       | gerieben    |         |
+| scheiden  | schied     | geschieden  |         |
+| scheinen  | schien     | geschienen  |         |
+| schreiben | schrieb    | geschrieben |         |
+| schreien  | schrie     | geschrien   |         |
+| schweigen | schwieg    | geschwiegen |         |
+| speien    | spie       | gespien     |         |
+| steigen   | stieg      | gestiegen   |         |
+| treiben   | trieb      | getrieben   |         |
+| verzeihen | verzieh    | verziehen   |         |
+| weisen    | wies       | gewiesen    |         |
+
 | Infinitiv   | Präteritum | Partizip II | Präsens            |
 | ----------- | ---------- | ----------- | ------------------ |
 | backen      | backte/buk | gebacken    | a -> ä             |
 | befehlen    | befahl     | befohlen    | e -> ie            |
 | beginnen    | begann     | begonnen    |                    |
-| beißen      | biss       | gebissen    |                    |
 | bergen      | barg       | geborgen    | e -> i             |
 | biegen      | bog        | gebogen     |                    |
 | bieten      | bot        | geboten     |                    |
 | binden      | band       | gebunden    |                    |
 | bitten      | bat        | gebeten     |                    |
 | blasen      | blies      | geblasen    | a -> ä             |
-| bleiben     | blieb      | geblieben   |                    |
 | braten      | briet      | gebraten    | a -> ä             |
 | brechen     | brach      | gebrochen   | e -> i             |
 | brennen     | brannte    | gebrannt    |                    |
@@ -23,8 +65,8 @@
 | dürfen      | durfte     | gedurft     | ü -> a (Singular)  |
 | empfehlen   | empfahl    | empfohlen   | e -> ie            |
 | erschrecken | erschrak   | erschrocken | e -> i             |
-| essen       | aß         | gegessen    | e -> i             |
 | erwägen     | erwog      | erwogen     |                    |
+| essen       | aß         | gegessen    | e -> i             |
 | fahren      | fuhr       | gefahren    | a -> ä             |
 | fallen      | fiel       | gefallen    | a -> ä             |
 | fangen      | fing       | gefangen    | a -> ä             |
@@ -37,7 +79,6 @@
 | gären       | gor        | gegoren     |                    |
 | gebären     | gebar      | geboren     | ä -> ie            |
 | geben       | gab        | gegeben     | e -> i             |
-| gedeihen    | gedieh     | gediehen    |                    |
 | gehen       | ging       | gegangen    |                    |
 | gelingen    | gelang     | gelungen    |                    |
 | gelten      | galt       | gegolten    | e -> i             |
@@ -46,10 +87,7 @@
 | geschehen   | geschah    | geschehen   | e -> ie            |
 | gewinnen    | gewann     | gewonnen    |                    |
 | gießen      | goss       | gegossen    |                    |
-| gleichen    | glich      | geglichen   |                    |
-| gleiten     | glitt      | geglitten   |                    |
 | graben      | grub       | gegraben    | a -> ä             |
-| greifen     | griff      | gegriffen   |                    |
 | haben       | hatte      | gehabt      | unregelmäßig       |
 | halten      | hielt      | gehalten    | a -> ä             |
 | hängen      | hing       | gehangen    |                    |
@@ -66,25 +104,18 @@
 | laden       | lud        | geladen     | a -> ä             |
 | lassen      | ließ       | gelassen    | a -> ä             |
 | laufen      | lief       | gelaufen    | a -> ä             |
-| leiden      | litt       | gelitten    |                    |
-| leihen      | lieh       | geliehen    |                    |
 | lesen       | las        | gelesen     | e -> ie            |
 | liegen      | lag        | gelegen     |                    |
 | lügen       | log        | gelogen     |                    |
-| meiden      | mied       | gemieden    |                    |
 | messen      | maß        | gemessen    | e -> i             |
 | misslingen  | misslang   | misslungen  |                    |
 | mögen       | mochte     | gemocht     | ö -> a (Singular)  |
 | müssen      | musste     | gemusst     | ü -> u (Singular)  |
 | nehmen      | nahm       | genommen    | e -> i             |
 | nennen      | nannte     | genannt     |                    |
-| pfeifen     | pfiff      | gepfiffen   |                    |
 | preisen     | pries      | gepriesen   |                    |
 | quellen     | quoll      | gequollen   | e -> i             |
 | raten       | riet       | geraten     | a -> ä             |
-| reiben      | rieb       | gerieben    |                    |
-| reißen      | riss       | gerissen    |                    |
-| reiten      | ritt       | geritten    |                    |
 | rennen      | rannte     | gerannt     |                    |
 | riechen     | roch       | gerochen    |                    |
 | ringen      | rang       | gerungen    |                    |
@@ -92,8 +123,6 @@
 | rufen       | rief       | gerufen     |                    |
 | saufen      | soff       | gesoffen    | a -> ä             |
 | schaffen    | schuf      | geschaffen  |                    |
-| scheiden    | schied     | geschieden  |                    |
-| scheinen    | schien     | geschienen  |                    |
 | schelten    | schalt     | gescholten  | e -> i             |
 | scheren     | schor      | geschoren   |                    |
 | schieben    | schob      | geschoben   |                    |
@@ -101,17 +130,9 @@
 | schinden    | schindete  | geschunden  |                    |
 | schlafen    | schlief    | geschlafen  | a -> ä             |
 | schlagen    | schlug     | geschlagen  | a -> ä             |
-| schleichen  | schlich    | geschlichen |                    |
-| schleifen   | schliff    | geschliffen |                    |
 | schließen   | schloss    | geschlossen |                    |
 | schlingen   | schlang    | geschlungen |                    |
-| schmeißen   | schmiss    | geschmissen |                    |
 | schmelzen   | schmolz    | geschmolzen | e -> i             |
-| schneiden   | schnitt    | geschnitten |                    |
-| schreiben   | schrieb    | geschrieben |                    |
-| schreien    | schrie     | geschrien   |                    |
-| schreiten   | schritt    | geschritten |                    |
-| schweigen   | schwieg    | geschwiegen |                    |
 | schwellen   | schwoll    | geschwollen | e -> i             |
 | schwimmen   | schwamm    | geschwommen |                    |
 | schwinden   | schwand    | geschwunden |                    |
@@ -124,7 +145,6 @@
 | sinnen      | sann       | gesonnen    |                    |
 | sitzen      | saß        | gesessen    |                    |
 | sollen      | sollte     | gesollt     |                    |
-| speien      | spie       | gespien     |                    |
 | spinnen     | spann      | gesponnen   |                    |
 | sprechen    | sprach     | gesprochen  | e -> i             |
 | sprießen    | spross     | gesprossen  |                    |
@@ -132,13 +152,9 @@
 | stechen     | stach      | gestochen   | e -> i             |
 | stehen      | stand      | gestanden   |                    |
 | stehlen     | stahl      | gestohlen   | e -> ie            |
-| steigen     | stieg      | gestiegen   |                    |
 | sterben     | starb      | gestorben   | e -> i             |
-| streichen   | strich     | gestrichen  |                    |
-| streiten    | stritt     | gestritten  |                    |
 | tragen      | trug       | getragen    | a -> ä             |
 | treffen     | traf       | getroffen   | e -> i             |
-| treiben     | trieb      | getrieben   |                    |
 | treten      | trat       | getreten    | e -> i (+tt)       |
 | trinken     | trank      | getrunken   |                    |
 | trügen      | trog       | getrogen    |                    |
@@ -148,8 +164,6 @@
 | verlieren   | verlor     | verloren    |                    |
 | wachsen     | wuchs      | gewachsen   | a -> ä             |
 | waschen     | wusch      | gewaschen   | a -> ä             |
-| weichen     | wich       | gewichen    |                    |
-| weisen      | wies       | gewiesen    |                    |
 | werben      | warb       | geworben    | e -> i             |
 | werden      | wurde      | geworden    | unregelmäßig       |
 | werfen      | warf       | geworfen    | e -> i             |

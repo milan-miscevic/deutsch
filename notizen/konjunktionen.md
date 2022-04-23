@@ -5,6 +5,7 @@ SVO
 * aber
 * beziehungsweise
 * denn
+* doch
 * oder
 * sondern
 * und
@@ -19,6 +20,7 @@ SOV
 * nachdem
 * ob
 * obwohl
+* seit
 * seitdem
 * sobald
 * sofern
@@ -38,3 +40,16 @@ SOV (W-Fragen)
 * wo
 * woher
 * wohin
+
+Todo
+
+* als ob, als wenn, als
+* da
+* ehe
+* falls
+* indem
+* jedoch
+* so dass
+* solange
+* sooft
+* um...zu

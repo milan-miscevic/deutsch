@@ -6,6 +6,7 @@ SVO
 * beziehungsweise
 * denn
 * doch
+* jedoch
 * oder
 * sondern
 * und
@@ -13,17 +14,26 @@ SVO
 SOV
 
 * als
+* als ob
+* als wenn
 * bevor
 * bis
+* da
 * damit
 * dass
+* ehe
+* falls
+* indem
 * nachdem
 * ob
 * obwohl
 * seit
 * seitdem
 * sobald
+* sodass
 * sofern
+* solange
+* sooft
 * soweit
 * sowie
 * während
@@ -43,13 +53,9 @@ SOV (W-Fragen)
 
 Todo
 
-* als ob, als wenn, als
-* da
-* ehe
-* falls
-* indem
-* jedoch
-* so dass
-* solange
-* sooft
-* um...zu
+* (an)statt ... zu
+* entweder ... oder
+* sowohl ... als (auch)
+* sowohl ... wie (auch)
+* um ... zu
+* weder ... noch

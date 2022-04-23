@@ -1,12 +1,9 @@
 # Unregelmäßige Verben
 
-## 1a (ei - i - i)
+## Ablautklasse 1a (ei - i - i)
 
 | Infinitiv  | Präteritum | Partizip II | Präsens |
 | ---------- | ---------- | ----------- | ------- |
-| schreiten  | schritt    | geschritten |         |
-| schneiden  | schnitt    | geschnitten |         |
-| schmeißen  | schmiss    | geschmissen |         |
 | beißen     | biss       | gebissen    |         |
 | bleichen   | blich      | geblichen   |         |
 | gleichen   | glich      | geglichen   |         |
@@ -19,12 +16,15 @@
 | scheißen   | schiss     | geschissen  |         |
 | schleichen | schlich    | geschlichen |         |
 | schleifen  | schliff    | geschliffen |         |
+| schmeißen  | schmiss    | geschmissen |         |
+| schneiden  | schnitt    | geschnitten |         |
+| schreiten  | schritt    | geschritten |         |
 | spleißen   | spliss     | gesplissen  |         |
 | streichen  | strich     | gestrichen  |         |
 | streiten   | stritt     | gestritten  |         |
 | weichen    | wich       | gewichen    |         |
 
-## 1b (ei - ie - ie)
+## Ablautklasse 1b (ei - ie - ie)
 
 | Infinitiv | Präteritum | Partizip II | Präsens |
 | --------- | ---------- | ----------- | ------- |

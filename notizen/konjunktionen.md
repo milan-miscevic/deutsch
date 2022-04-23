@@ -51,7 +51,7 @@ SOV (W-Fragen)
 * woher
 * wohin
 
-Todo
+Zweiteilige
 
 * (an)statt ... zu
 * entweder ... oder

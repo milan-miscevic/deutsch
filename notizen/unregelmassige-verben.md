@@ -1,11 +1,13 @@
 # Unregelmäßige Verben
 
-## Hilfsverben
+## Hilfsverben und Verben ohne Klasse
 
 | Infinitiv | Präteritum | Partizip II | Präsens      |
 | --------- | ---------- | ----------- | ------------ |
 | haben     | hatte      | gehabt      | unregelmäßig |
 | sein      | war        | gewesen     | unregelmäßig |
+| stehen    | stand      | gestanden   |              |
+| tun       | tat        | getan       |              |
 | werden    | wurde      | geworden    | unregelmäßig |
 
 ## Modalverben
@@ -30,6 +32,7 @@
 | gleichen   | glich      | geglichen   |         |
 | gleiten    | glitt      | geglitten   |         |
 | greifen    | griff      | gegriffen   |         |
+| kneifen    | kniff      | gekniffen   |         |
 | leiden     | litt       | gelitten    |         |
 | pfeifen    | pfiff      | gepfiffen   |         |
 | reißen     | riss       | gerissen    |         |
@@ -53,6 +56,7 @@
 | gedeihen  | gedieh     | gediehen    |         |
 | leihen    | lieh       | geliehen    |         |
 | meiden    | mied       | gemieden    |         |
+| preisen   | pries      | gepriesen   |         |
 | reiben    | rieb       | gerieben    |         |
 | scheiden  | schied     | geschieden  |         |
 | scheinen  | schien     | geschienen  |         |
@@ -66,6 +70,13 @@
 | weisen    | wies       | gewiesen    |         |
 
 ## Ablautklasse 2
+
+### au - o - o
+
+| Infinitiv | Präteritum | Partizip II | Präsens |
+| --------- | ---------- | ----------- | ------- |
+| saufen    | soff       | gesoffen    | a -> ä  |
+| saugen    | sog        | gesogen     |         |
 
 ### ie - o - o
 
@@ -87,7 +98,16 @@
 | sprießen  | spross     | gesprossen  |         |
 | stieben   | stob       | gestoben    |         |
 | verlieren | verlor     | verloren    |         |
+| wiegen    | wog        | gewogen     |         |
 | ziehen    | zog        | gezogen     |         |
+
+### ü - o - o
+
+| Infinitiv | Präteritum | Partizip II | Präsens |
+| --------- | ---------- | ----------- | ------- |
+| betrügen  | betrog     | betrogen    |         |
+| lügen     | log        | gelogen     |         |
+| trügen    | trog       | getrogen    |         |
 
 ## Ablautklasse 3
 
@@ -102,6 +122,7 @@
 | schelten  | schalt     | gescholten  | e -> i  |
 | sterben   | starb      | gestorben   | e -> i  |
 | verderben | verdarb    | verdorben   | e -> i  |
+| werben    | warb       | geworben    | e -> i  |
 | werfen    | warf       | geworfen    | e -> i  |
 
 ### e - o - o
@@ -123,6 +144,9 @@
 | gewinnen  | gewann     | gewonnen    |         |
 | rinnen    | rann       | geronnen    |         |
 | schwimmen | schwamm    | geschwommen |         |
+| sinnen    | sann       | gesonnen    |         |
+| spinnen   | spann      | gesponnen   |         |
+| wringen   | wrang      | gewrungen   |         |
 
 ### i - a - u
 
@@ -133,6 +157,7 @@
 | finden       | fand       | gefunden     |         |
 | gelingen     | gelang     | gelungen     |         |
 | klingen      | klang      | geklungen    |         |
+| misslingen   | misslang   | misslungen   |         |
 | ringen       | rang       | gerungen     |         |
 | schlingen    | schlang    | geschlungen  |         |
 | schwinden    | schwand    | geschwunden  |         |
@@ -145,6 +170,18 @@
 | verschwinden | verschwand | verschwunden |         |
 | zwingen      | zwang      | gezwungen    |         |
 
+### i - u - u
+
+| Infinitiv | Präteritum | Partizip II | Präsens |
+| --------- | ---------- | ----------- | ------- |
+| schinden  | schund     | geschunden  |         |
+
+### ö - o - o
+
+| Infinitiv | Präteritum | Partizip II | Präsens |
+| --------- | ---------- | ----------- | ------- |
+| erlöschen | erlosch    | erloschen   |         |
+
 ## Ablautklasse 4
 
 ### ä - a - o
@@ -153,17 +190,39 @@
 | --------- | ---------- | ----------- | ------- |
 | gebären   | gebar      | geboren     | ä -> ie |
 
-### e - a - o
+### ä - o - o
 
 | Infinitiv | Präteritum | Partizip II | Präsens |
 | --------- | ---------- | ----------- | ------- |
-| befehlen  | befahl     | befohlen    | e -> ie |
-| brechen   | brach      | gebrochen   | e -> i  |
-| nehmen    | nahm       | genommen    | e -> i  |
-| schrecken | schrack    | geschrocken | e -> i  |
-| sprechen  | sprach     | gesprochen  | e -> i  |
-| stehlen   | stahl      | gestohlen   | e -> ie |
-| treffen   | traf       | getroffen   | e -> i  |
+| erwägen   | erwog      | erwogen     |         |
+| gären     | gor        | gegoren     |         |
+
+### e - a - o
+
+| Infinitiv   | Präteritum | Partizip II | Präsens |
+| ----------- | ---------- | ----------- | ------- |
+| befehlen    | befahl     | befohlen    | e -> ie |
+| brechen     | brach      | gebrochen   | e -> i  |
+| empfehlen   | empfahl    | empfohlen   | e -> ie |
+| erschrecken | erschrak   | erschrocken | e -> i  |
+| nehmen      | nahm       | genommen    | e -> i  |
+| schrecken   | schrack    | geschrocken | e -> i  |
+| sprechen    | sprach     | gesprochen  | e -> i  |
+| stechen     | stach      | gestochen   | e -> i  |
+| stehlen     | stahl      | gestohlen   | e -> ie |
+| treffen     | traf       | getroffen   | e -> i  |
+
+### e - o - o
+
+| Infinitiv | Präteritum | Partizip II | Präsens |
+| --------- | ---------- | ----------- | ------- |
+| scheren   | schor      | geschoren   |         |
+
+### o - a - o
+
+| Infinitiv | Präteritum | Partizip II | Präsens |
+| --------- | ---------- | ----------- | ------- |
+| kommen    | kam        | gekommen    |         |
 
 ## Ablautklasse 5
 
@@ -172,6 +231,7 @@
 | Infinitiv | Präteritum | Partizip II | Präsens      |
 | --------- | ---------- | ----------- | ------------ |
 | essen     | aß         | gegessen    | e -> i       |
+| fressen   | fraß       | gefressen   | e -> i       |
 | geben     | gab        | gegeben     | e -> i       |
 | genesen   | genas      | genesen     |              |
 | geschehen | geschah    | geschehen   | e -> ie      |
@@ -203,15 +263,32 @@
 | backen    | backte/buk | gebacken    | a -> ä  |
 | mahlen    | mahlte     | gemahlen    |         |
 | salzen    | salzte     | gesalzen    |         |
+| spalten   | spaltete   | gespalten   |         |
 
 ### a - u - a
 
 | Infinitiv | Präteritum | Partizip II | Präsens |
 | --------- | ---------- | ----------- | ------- |
+| fahren    | fuhr       | gefahren    | a -> ä  |
 | graben    | grub       | gegraben    | a -> ä  |
 | laden     | lud        | geladen     | a -> ä  |
 | schaffen  | schuf      | geschaffen  |         |
+| schlagen  | schlug     | geschlagen  | a -> ä  |
 | tragen    | trug       | getragen    | a -> ä  |
+| wachsen   | wuchs      | gewachsen   | a -> ä  |
+| waschen   | wusch      | gewaschen   | a -> ä  |
+
+### e - o - o
+
+| Infinitiv | Präteritum | Partizip II | Präsens |
+| --------- | ---------- | ----------- | ------- |
+| heben     | hob        | gehoben     |         |
+
+### ö - o - o
+
+| Infinitiv | Präteritum | Partizip II | Präsens |
+| --------- | ---------- | ----------- | ------- |
+| schwören  | schwor     | geschworen  |         |
 
 ## Ablautklasse 7
 
@@ -235,14 +312,27 @@
 | braten    | briet      | gebraten    | a -> ä  |
 | fallen    | fiel       | gefallen    | a -> ä  |
 | halten    | hielt      | gehalten    | a -> ä  |
+| lassen    | ließ       | gelassen    | a -> ä  |
 | raten     | riet       | geraten     | a -> ä  |
 | schlafen  | schlief    | geschlafen  | a -> ä  |
+
+### au - (au) - au
+
+| Infinitiv | Präteritum | Partizip II | Präsens |
+| --------- | ---------- | ----------- | ------- |
+| hauen     | haute/hieb | gehauen     |         |
 
 ### au - ie - au
 
 | Infinitiv | Präteritum | Partizip II | Präsens |
 | --------- | ---------- | ----------- | ------- |
 | laufen    | lief       | gelaufen    | a -> ä  |
+
+### e - i - a
+
+| Infinitiv | Präteritum | Partizip II | Präsens |
+| --------- | ---------- | ----------- | ------- |
+| gehen     | ging       | gegangen    |         |
 
 ### ei - ie - ei
 
@@ -272,40 +362,6 @@
 | kennen    | kannte     | gekannt     |                    |
 | nennen    | nannte     | genannt     |                    |
 | rennen    | rannte     | gerannt     |                    |
-| wissen    | wusste     | gewusst     | i -> ei (Singular) |
 | senden    | sandte     | gesandt     |                    |
 | wenden    | wandte     | gewandt     |                    |
-
-| Infinitiv   | Präteritum | Partizip II | Präsens |
-| ----------- | ---------- | ----------- | ------- |
-| empfehlen   | empfahl    | empfohlen   | e -> ie |
-| erschrecken | erschrak   | erschrocken | e -> i  |
-| erwägen     | erwog      | erwogen     |         |
-| fahren      | fuhr       | gefahren    | a -> ä  |
-| fressen     | fraß       | gefressen   | e -> i  |
-| gären       | gor        | gegoren     |         |
-| gehen       | ging       | gegangen    |         |
-| hauen       | haute      | gehauen     |         |
-| heben       | hob        | gehoben     |         |
-| kneifen     | kniff      | gekniffen   |         |
-| kommen      | kam        | gekommen    |         |
-| lassen      | ließ       | gelassen    | a -> ä  |
-| lügen       | log        | gelogen     |         |
-| misslingen  | misslang   | misslungen  |         |
-| preisen     | pries      | gepriesen   |         |
-| saufen      | soff       | gesoffen    | a -> ä  |
-| scheren     | schor      | geschoren   |         |
-| schinden    | schindete  | geschunden  |         |
-| schlagen    | schlug     | geschlagen  | a -> ä  |
-| schwören    | schwor     | geschworen  |         |
-| sinnen      | sann       | gesonnen    |         |
-| spinnen     | spann      | gesponnen   |         |
-| stechen     | stach      | gestochen   | e -> i  |
-| stehen      | stand      | gestanden   |         |
-| trügen      | trog       | getrogen    |         |
-| tun         | tat        | getan       |         |
-| wachsen     | wuchs      | gewachsen   | a -> ä  |
-| waschen     | wusch      | gewaschen   | a -> ä  |
-| werben      | warb       | geworben    | e -> i  |
-| wiegen      | wog        | gewogen     |         |
-| wringen     | wrang      | gewrungen   |         |
+| wissen    | wusste     | gewusst     | i -> ei (Singular) |

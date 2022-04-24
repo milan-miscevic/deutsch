@@ -126,7 +126,7 @@
 
 ## Ablautklasse 4
 
-### e (ä) - a - o
+### e/ä - a - o
 
 | Infinitiv | Präteritum | Partizip II | Präsens |
 | --------- | ---------- | ----------- | ------- |
@@ -143,31 +143,49 @@
 
 ### e - a - e
 
-| Infinitiv   | Präteritum | Partizip II | Präsens            |
-| ----------- | ---------- | ----------- | ------------------ |
-| essen       | aß         | gegessen    | e -> i             |
-| geben       | gab        | gegeben     | e -> i             |
-| genesen     | genas      | genesen     |                    |
-| geschehen   | geschah    | geschehen   | e -> ie            |
-| lesen       | las        | gelesen     | e -> ie            |
-| messen      | maß        | gemessen    | e -> i             |
-| sehen       | sah        | gesehen     | e -> ie            |
-| treten      | trat       | getreten    | e -> i (+tt)       |
-| vergessen   | vergaß     | vergessen   | e -> i             |
+| Infinitiv | Präteritum | Partizip II | Präsens      |
+| --------- | ---------- | ----------- | ------------ |
+| essen     | aß         | gegessen    | e -> i       |
+| geben     | gab        | gegeben     | e -> i       |
+| genesen   | genas      | genesen     |              |
+| geschehen | geschah    | geschehen   | e -> ie      |
+| lesen     | las        | gelesen     | e -> ie      |
+| messen    | maß        | gemessen    | e -> i       |
+| sehen     | sah        | gesehen     | e -> ie      |
+| treten    | trat       | getreten    | e -> i (+tt) |
+| vergessen | vergaß     | vergessen   | e -> i       |
 
 ### i/ie - a - e
 
-| Infinitiv   | Präteritum | Partizip II | Präsens            |
-| ----------- | ---------- | ----------- | ------------------ |
-| bitten      | bat        | gebeten     |                    |
-| liegen      | lag        | gelegen     |                    |
-| sitzen      | saß        | gesessen    |                    |
+| Infinitiv | Präteritum | Partizip II | Präsens |
+| --------- | ---------- | ----------- | ------- |
+| bitten    | bat        | gebeten     |         |
+| liegen    | lag        | gelegen     |         |
+| sitzen    | saß        | gesessen    |         |
+
+## Ablautklasse 6
+
+### a - (a) - a
+
+| Infinitiv | Präteritum | Partizip II | Präsens |
+| --------- | ---------- | ----------- | ------- |
+| backen    | backte/buk | gebacken    | a -> ä  |
+| mahlen    | mahlte     | gemahlen    |         |
+| salzen    | salzte     | gesalzen    |         |
+
+### a - u - a
+
+| Infinitiv | Präteritum | Partizip II | Präsens |
+| --------- | ---------- | ----------- | ------- |
+| graben    | grub       | gegraben    | a -> ä  |
+| laden     | lud        | geladen     | a -> ä  |
+| schaffen  | schuf      | geschaffen  |         |
+| tragen    | trug       | getragen    | a -> ä  |
 
 ##
 
 | Infinitiv   | Präteritum | Partizip II | Präsens            |
 | ----------- | ---------- | ----------- | ------------------ |
-| backen      | backte/buk | gebacken    | a -> ä             |
 | blasen      | blies      | geblasen    | a -> ä             |
 | braten      | briet      | gebraten    | a -> ä             |
 | brennen     | brannte    | gebrannt    |                    |
@@ -183,7 +201,6 @@
 | fressen     | fraß       | gefressen   | e -> i             |
 | gären       | gor        | gegoren     |                    |
 | gehen       | ging       | gegangen    |                    |
-| graben      | grub       | gegraben    | a -> ä             |
 | haben       | hatte      | gehabt      | unregelmäßig       |
 | halten      | hielt      | gehalten    | a -> ä             |
 | hängen      | hing       | gehangen    |                    |
@@ -194,7 +211,6 @@
 | kneifen     | kniff      | gekniffen   |                    |
 | kommen      | kam        | gekommen    |                    |
 | können      | konnte     | gekonnt     | ö -> a (Singular)  |
-| laden       | lud        | geladen     | a -> ä             |
 | lassen      | ließ       | gelassen    | a -> ä             |
 | laufen      | lief       | gelaufen    | a -> ä             |
 | lügen       | log        | gelogen     |                    |
@@ -207,7 +223,6 @@
 | rennen      | rannte     | gerannt     |                    |
 | rufen       | rief       | gerufen     |                    |
 | saufen      | soff       | gesoffen    | a -> ä             |
-| schaffen    | schuf      | geschaffen  |                    |
 | scheren     | schor      | geschoren   |                    |
 | schinden    | schindete  | geschunden  |                    |
 | schlafen    | schlief    | geschlafen  | a -> ä             |
@@ -219,7 +234,6 @@
 | spinnen     | spann      | gesponnen   |                    |
 | stechen     | stach      | gestochen   | e -> i             |
 | stehen      | stand      | gestanden   |                    |
-| tragen      | trug       | getragen    | a -> ä             |
 | trügen      | trog       | getrogen    |                    |
 | tun         | tat        | getan       |                    |
 | wachsen     | wuchs      | gewachsen   | a -> ä             |

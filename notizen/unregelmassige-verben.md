@@ -46,7 +46,9 @@
 | verzeihen | verzieh    | verziehen   |         |
 | weisen    | wies       | gewiesen    |         |
 
-## Ablautklasse 2 (ie - o - o)
+## Ablautklasse 2
+
+### ie - o - o
 
 | Infinitiv | Präteritum | Partizip II | Präsens |
 | --------- | ---------- | ----------- | ------- |
@@ -126,13 +128,18 @@
 
 ## Ablautklasse 4
 
-### e/ä - a - o
+### ä - a - o
+
+| Infinitiv | Präteritum | Partizip II | Präsens |
+| --------- | ---------- | ----------- | ------- |
+| gebären   | gebar      | geboren     | ä -> ie |
+
+### e - a - o
 
 | Infinitiv | Präteritum | Partizip II | Präsens |
 | --------- | ---------- | ----------- | ------- |
 | befehlen  | befahl     | befohlen    | e -> ie |
 | brechen   | brach      | gebrochen   | e -> i  |
-| gebären   | gebar      | geboren     | ä -> ie |
 | nehmen    | nahm       | genommen    | e -> i  |
 | schrecken | schrack    | geschrocken | e -> i  |
 | sprechen  | sprach     | gesprochen  | e -> i  |
@@ -155,13 +162,18 @@
 | treten    | trat       | getreten    | e -> i (+tt) |
 | vergessen | vergaß     | vergessen   | e -> i       |
 
-### i/ie - a - e
+### ie - a - e
 
 | Infinitiv | Präteritum | Partizip II | Präsens |
 | --------- | ---------- | ----------- | ------- |
 | bitten    | bat        | gebeten     |         |
-| liegen    | lag        | gelegen     |         |
 | sitzen    | saß        | gesessen    |         |
+
+### ie - a - e
+
+| Infinitiv | Präteritum | Partizip II | Präsens |
+| --------- | ---------- | ----------- | ------- |
+| liegen    | lag        | gelegen     |         |
 
 ## Ablautklasse 6
 

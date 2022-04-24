@@ -1,5 +1,24 @@
 # Unregelmäßige Verben
 
+## Hilfsverben
+
+| Infinitiv | Präteritum | Partizip II | Präsens      |
+| --------- | ---------- | ----------- | ------------ |
+| haben     | hatte      | gehabt      | unregelmäßig |
+| sein      | war        | gewesen     | unregelmäßig |
+| werden    | wurde      | geworden    | unregelmäßig |
+
+## Modalverben
+
+| Infinitiv | Präteritum | Partizip II | Präsens           |
+| --------- | ---------- | ----------- | ----------------- |
+| dürfen    | durfte     | gedurft     | ü -> a (Singular) |
+| können    | konnte     | gekonnt     | ö -> a (Singular) |
+| mögen     | mochte     | gemocht     | ö -> a (Singular) |
+| müssen    | musste     | gemusst     | ü -> u (Singular) |
+| sollen    | sollte     | gesollt     |                   |
+| wollen    | wollte     | gewollt     | o -> i (Singular) |
+
 ## Ablautklasse 1
 
 ### ei - i - i
@@ -250,7 +269,6 @@
 | brennen     | brannte    | gebrannt    |                    |
 | bringen     | brachte    | gebracht    |                    |
 | denken      | dachte     | gedacht     |                    |
-| dürfen      | durfte     | gedurft     | ü -> a (Singular)  |
 | empfehlen   | empfahl    | empfohlen   | e -> ie            |
 | erschrecken | erschrak   | erschrocken | e -> i             |
 | erwägen     | erwog      | erwogen     |                    |
@@ -258,18 +276,14 @@
 | fressen     | fraß       | gefressen   | e -> i             |
 | gären       | gor        | gegoren     |                    |
 | gehen       | ging       | gegangen    |                    |
-| haben       | hatte      | gehabt      | unregelmäßig       |
 | hauen       | haute      | gehauen     |                    |
 | heben       | hob        | gehoben     |                    |
 | kennen      | kannte     | gekannt     |                    |
 | kneifen     | kniff      | gekniffen   |                    |
 | kommen      | kam        | gekommen    |                    |
-| können      | konnte     | gekonnt     | ö -> a (Singular)  |
 | lassen      | ließ       | gelassen    | a -> ä             |
 | lügen       | log        | gelogen     |                    |
 | misslingen  | misslang   | misslungen  |                    |
-| mögen       | mochte     | gemocht     | ö -> a (Singular)  |
-| müssen      | musste     | gemusst     | ü -> u (Singular)  |
 | nennen      | nannte     | genannt     |                    |
 | preisen     | pries      | gepriesen   |                    |
 | rennen      | rannte     | gerannt     |                    |
@@ -278,9 +292,7 @@
 | schinden    | schindete  | geschunden  |                    |
 | schlagen    | schlug     | geschlagen  | a -> ä             |
 | schwören    | schwor     | geschworen  |                    |
-| sein        | war        | gewesen     | unregelmäßig       |
 | sinnen      | sann       | gesonnen    |                    |
-| sollen      | sollte     | gesollt     |                    |
 | spinnen     | spann      | gesponnen   |                    |
 | stechen     | stach      | gestochen   | e -> i             |
 | stehen      | stand      | gestanden   |                    |
@@ -289,8 +301,6 @@
 | wachsen     | wuchs      | gewachsen   | a -> ä             |
 | waschen     | wusch      | gewaschen   | a -> ä             |
 | werben      | warb       | geworben    | e -> i             |
-| werden      | wurde      | geworden    | unregelmäßig       |
 | wiegen      | wog        | gewogen     |                    |
 | wissen      | wusste     | gewusst     | i -> ei (Singular) |
-| wollen      | wollte     | gewollt     | o -> i (Singular)  |
 | wringen     | wrang      | gewrungen   |                    |

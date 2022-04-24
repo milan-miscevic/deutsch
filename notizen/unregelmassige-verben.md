@@ -1,6 +1,8 @@
 # Unregelmäßige Verben
 
-## Ablautklasse 1a (ei - i - i)
+## Ablautklasse 1
+
+### ei - i - i
 
 | Infinitiv  | Präteritum | Partizip II | Präsens |
 | ---------- | ---------- | ----------- | ------- |
@@ -24,7 +26,7 @@
 | streiten   | stritt     | gestritten  |         |
 | weichen    | wich       | gewichen    |         |
 
-## Ablautklasse 1b (ei - ie - ie)
+### ei - ie - ie
 
 | Infinitiv | Präteritum | Partizip II | Präsens |
 | --------- | ---------- | ----------- | ------- |

@@ -139,12 +139,35 @@
 | stehlen   | stahl      | gestohlen   | e -> ie |
 | treffen   | traf       | getroffen   | e -> i  |
 
+## Ablautklasse 5
+
+### e - a - e
+
+| Infinitiv   | Präteritum | Partizip II | Präsens            |
+| ----------- | ---------- | ----------- | ------------------ |
+| essen       | aß         | gegessen    | e -> i             |
+| geben       | gab        | gegeben     | e -> i             |
+| genesen     | genas      | genesen     |                    |
+| geschehen   | geschah    | geschehen   | e -> ie            |
+| lesen       | las        | gelesen     | e -> ie            |
+| messen      | maß        | gemessen    | e -> i             |
+| sehen       | sah        | gesehen     | e -> ie            |
+| treten      | trat       | getreten    | e -> i (+tt)       |
+| vergessen   | vergaß     | vergessen   | e -> i             |
+
+### i/ie - a - e
+
+| Infinitiv   | Präteritum | Partizip II | Präsens            |
+| ----------- | ---------- | ----------- | ------------------ |
+| bitten      | bat        | gebeten     |                    |
+| liegen      | lag        | gelegen     |                    |
+| sitzen      | saß        | gesessen    |                    |
+
 ##
 
 | Infinitiv   | Präteritum | Partizip II | Präsens            |
 | ----------- | ---------- | ----------- | ------------------ |
 | backen      | backte/buk | gebacken    | a -> ä             |
-| bitten      | bat        | gebeten     |                    |
 | blasen      | blies      | geblasen    | a -> ä             |
 | braten      | briet      | gebraten    | a -> ä             |
 | brennen     | brannte    | gebrannt    |                    |
@@ -154,16 +177,12 @@
 | empfehlen   | empfahl    | empfohlen   | e -> ie            |
 | erschrecken | erschrak   | erschrocken | e -> i             |
 | erwägen     | erwog      | erwogen     |                    |
-| essen       | aß         | gegessen    | e -> i             |
 | fahren      | fuhr       | gefahren    | a -> ä             |
 | fallen      | fiel       | gefallen    | a -> ä             |
 | fangen      | fing       | gefangen    | a -> ä             |
 | fressen     | fraß       | gefressen   | e -> i             |
 | gären       | gor        | gegoren     |                    |
-| geben       | gab        | gegeben     | e -> i             |
 | gehen       | ging       | gegangen    |                    |
-| genesen     | genas      | genesen     |                    |
-| geschehen   | geschah    | geschehen   | e -> ie            |
 | graben      | grub       | gegraben    | a -> ä             |
 | haben       | hatte      | gehabt      | unregelmäßig       |
 | halten      | hielt      | gehalten    | a -> ä             |
@@ -178,10 +197,7 @@
 | laden       | lud        | geladen     | a -> ä             |
 | lassen      | ließ       | gelassen    | a -> ä             |
 | laufen      | lief       | gelaufen    | a -> ä             |
-| lesen       | las        | gelesen     | e -> ie            |
-| liegen      | lag        | gelegen     |                    |
 | lügen       | log        | gelogen     |                    |
-| messen      | maß        | gemessen    | e -> i             |
 | misslingen  | misslang   | misslungen  |                    |
 | mögen       | mochte     | gemocht     | ö -> a (Singular)  |
 | müssen      | musste     | gemusst     | ü -> u (Singular)  |
@@ -197,19 +213,15 @@
 | schlafen    | schlief    | geschlafen  | a -> ä             |
 | schlagen    | schlug     | geschlagen  | a -> ä             |
 | schwören    | schwor     | geschworen  |                    |
-| sehen       | sah        | gesehen     | e -> ie            |
 | sein        | war        | gewesen     | unregelmäßig       |
 | sinnen      | sann       | gesonnen    |                    |
-| sitzen      | saß        | gesessen    |                    |
 | sollen      | sollte     | gesollt     |                    |
 | spinnen     | spann      | gesponnen   |                    |
 | stechen     | stach      | gestochen   | e -> i             |
 | stehen      | stand      | gestanden   |                    |
 | tragen      | trug       | getragen    | a -> ä             |
-| treten      | trat       | getreten    | e -> i (+tt)       |
 | trügen      | trog       | getrogen    |                    |
 | tun         | tat        | getan       |                    |
-| vergessen   | vergaß     | vergessen   | e -> i             |
 | wachsen     | wuchs      | gewachsen   | a -> ä             |
 | waschen     | wusch      | gewaschen   | a -> ä             |
 | werben      | warb       | geworben    | e -> i             |

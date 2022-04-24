@@ -194,12 +194,59 @@
 | schaffen  | schuf      | geschaffen  |         |
 | tragen    | trug       | getragen    | a -> ä  |
 
+## Ablautklasse 7
+
+### a - i - a
+
+| Infinitiv | Präteritum | Partizip II | Präsens |
+| --------- | ---------- | ----------- | ------- |
+| fangen    | fing       | gefangen    | a -> ä  |
+
+### ä - i - a
+
+| Infinitiv | Präteritum | Partizip II | Präsens |
+| --------- | ---------- | ----------- | ------- |
+| hängen    | hing       | gehangen    |         |
+
+### a - ie - a
+
+| Infinitiv | Präteritum | Partizip II | Präsens |
+| --------- | ---------- | ----------- | ------- |
+| blasen    | blies      | geblasen    | a -> ä  |
+| braten    | briet      | gebraten    | a -> ä  |
+| fallen    | fiel       | gefallen    | a -> ä  |
+| halten    | hielt      | gehalten    | a -> ä  |
+| raten     | riet       | geraten     | a -> ä  |
+| schlafen  | schlief    | geschlafen  | a -> ä  |
+
+### au - ie - au
+
+| Infinitiv | Präteritum | Partizip II | Präsens |
+| --------- | ---------- | ----------- | ------- |
+| laufen    | lief       | gelaufen    | a -> ä  |
+
+### ei - ie - ei
+
+| Infinitiv | Präteritum | Partizip II | Präsens |
+| --------- | ---------- | ----------- | ------- |
+| heißen    | hieß       | geheißen    |         |
+
+### o - ie - o
+
+| Infinitiv | Präteritum | Partizip II | Präsens |
+| --------- | ---------- | ----------- | ------- |
+| stoßen    | stieß      | gestoßen    | o -> ö  |
+
+### u - ie - u
+
+| Infinitiv | Präteritum | Partizip II | Präsens |
+| --------- | ---------- | ----------- | ------- |
+| rufen     | rief       | gerufen     |         |
+
 ##
 
 | Infinitiv   | Präteritum | Partizip II | Präsens            |
 | ----------- | ---------- | ----------- | ------------------ |
-| blasen      | blies      | geblasen    | a -> ä             |
-| braten      | briet      | gebraten    | a -> ä             |
 | brennen     | brannte    | gebrannt    |                    |
 | bringen     | brachte    | gebracht    |                    |
 | denken      | dachte     | gedacht     |                    |
@@ -208,36 +255,27 @@
 | erschrecken | erschrak   | erschrocken | e -> i             |
 | erwägen     | erwog      | erwogen     |                    |
 | fahren      | fuhr       | gefahren    | a -> ä             |
-| fallen      | fiel       | gefallen    | a -> ä             |
-| fangen      | fing       | gefangen    | a -> ä             |
 | fressen     | fraß       | gefressen   | e -> i             |
 | gären       | gor        | gegoren     |                    |
 | gehen       | ging       | gegangen    |                    |
 | haben       | hatte      | gehabt      | unregelmäßig       |
-| halten      | hielt      | gehalten    | a -> ä             |
-| hängen      | hing       | gehangen    |                    |
 | hauen       | haute      | gehauen     |                    |
 | heben       | hob        | gehoben     |                    |
-| heißen      | hieß       | geheißen    |                    |
 | kennen      | kannte     | gekannt     |                    |
 | kneifen     | kniff      | gekniffen   |                    |
 | kommen      | kam        | gekommen    |                    |
 | können      | konnte     | gekonnt     | ö -> a (Singular)  |
 | lassen      | ließ       | gelassen    | a -> ä             |
-| laufen      | lief       | gelaufen    | a -> ä             |
 | lügen       | log        | gelogen     |                    |
 | misslingen  | misslang   | misslungen  |                    |
 | mögen       | mochte     | gemocht     | ö -> a (Singular)  |
 | müssen      | musste     | gemusst     | ü -> u (Singular)  |
 | nennen      | nannte     | genannt     |                    |
 | preisen     | pries      | gepriesen   |                    |
-| raten       | riet       | geraten     | a -> ä             |
 | rennen      | rannte     | gerannt     |                    |
-| rufen       | rief       | gerufen     |                    |
 | saufen      | soff       | gesoffen    | a -> ä             |
 | scheren     | schor      | geschoren   |                    |
 | schinden    | schindete  | geschunden  |                    |
-| schlafen    | schlief    | geschlafen  | a -> ä             |
 | schlagen    | schlug     | geschlagen  | a -> ä             |
 | schwören    | schwor     | geschworen  |                    |
 | sein        | war        | gewesen     | unregelmäßig       |

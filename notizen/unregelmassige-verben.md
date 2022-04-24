@@ -262,45 +262,50 @@
 | --------- | ---------- | ----------- | ------- |
 | rufen     | rief       | gerufen     |         |
 
-##
+## Schwache Verben
 
-| Infinitiv   | Präteritum | Partizip II | Präsens            |
-| ----------- | ---------- | ----------- | ------------------ |
-| brennen     | brannte    | gebrannt    |                    |
-| bringen     | brachte    | gebracht    |                    |
-| denken      | dachte     | gedacht     |                    |
-| empfehlen   | empfahl    | empfohlen   | e -> ie            |
-| erschrecken | erschrak   | erschrocken | e -> i             |
-| erwägen     | erwog      | erwogen     |                    |
-| fahren      | fuhr       | gefahren    | a -> ä             |
-| fressen     | fraß       | gefressen   | e -> i             |
-| gären       | gor        | gegoren     |                    |
-| gehen       | ging       | gegangen    |                    |
-| hauen       | haute      | gehauen     |                    |
-| heben       | hob        | gehoben     |                    |
-| kennen      | kannte     | gekannt     |                    |
-| kneifen     | kniff      | gekniffen   |                    |
-| kommen      | kam        | gekommen    |                    |
-| lassen      | ließ       | gelassen    | a -> ä             |
-| lügen       | log        | gelogen     |                    |
-| misslingen  | misslang   | misslungen  |                    |
-| nennen      | nannte     | genannt     |                    |
-| preisen     | pries      | gepriesen   |                    |
-| rennen      | rannte     | gerannt     |                    |
-| saufen      | soff       | gesoffen    | a -> ä             |
-| scheren     | schor      | geschoren   |                    |
-| schinden    | schindete  | geschunden  |                    |
-| schlagen    | schlug     | geschlagen  | a -> ä             |
-| schwören    | schwor     | geschworen  |                    |
-| sinnen      | sann       | gesonnen    |                    |
-| spinnen     | spann      | gesponnen   |                    |
-| stechen     | stach      | gestochen   | e -> i             |
-| stehen      | stand      | gestanden   |                    |
-| trügen      | trog       | getrogen    |                    |
-| tun         | tat        | getan       |                    |
-| wachsen     | wuchs      | gewachsen   | a -> ä             |
-| waschen     | wusch      | gewaschen   | a -> ä             |
-| werben      | warb       | geworben    | e -> i             |
-| wiegen      | wog        | gewogen     |                    |
-| wissen      | wusste     | gewusst     | i -> ei (Singular) |
-| wringen     | wrang      | gewrungen   |                    |
+| Infinitiv | Präteritum | Partizip II | Präsens            |
+| --------- | ---------- | ----------- | ------------------ |
+| brennen   | brannte    | gebrannt    |                    |
+| bringen   | brachte    | gebracht    |                    |
+| denken    | dachte     | gedacht     |                    |
+| kennen    | kannte     | gekannt     |                    |
+| nennen    | nannte     | genannt     |                    |
+| rennen    | rannte     | gerannt     |                    |
+| wissen    | wusste     | gewusst     | i -> ei (Singular) |
+| senden    | sandte     | gesandt     |                    |
+| wenden    | wandte     | gewandt     |                    |
+
+| Infinitiv   | Präteritum | Partizip II | Präsens |
+| ----------- | ---------- | ----------- | ------- |
+| empfehlen   | empfahl    | empfohlen   | e -> ie |
+| erschrecken | erschrak   | erschrocken | e -> i  |
+| erwägen     | erwog      | erwogen     |         |
+| fahren      | fuhr       | gefahren    | a -> ä  |
+| fressen     | fraß       | gefressen   | e -> i  |
+| gären       | gor        | gegoren     |         |
+| gehen       | ging       | gegangen    |         |
+| hauen       | haute      | gehauen     |         |
+| heben       | hob        | gehoben     |         |
+| kneifen     | kniff      | gekniffen   |         |
+| kommen      | kam        | gekommen    |         |
+| lassen      | ließ       | gelassen    | a -> ä  |
+| lügen       | log        | gelogen     |         |
+| misslingen  | misslang   | misslungen  |         |
+| preisen     | pries      | gepriesen   |         |
+| saufen      | soff       | gesoffen    | a -> ä  |
+| scheren     | schor      | geschoren   |         |
+| schinden    | schindete  | geschunden  |         |
+| schlagen    | schlug     | geschlagen  | a -> ä  |
+| schwören    | schwor     | geschworen  |         |
+| sinnen      | sann       | gesonnen    |         |
+| spinnen     | spann      | gesponnen   |         |
+| stechen     | stach      | gestochen   | e -> i  |
+| stehen      | stand      | gestanden   |         |
+| trügen      | trog       | getrogen    |         |
+| tun         | tat        | getan       |         |
+| wachsen     | wuchs      | gewachsen   | a -> ä  |
+| waschen     | wusch      | gewaschen   | a -> ä  |
+| werben      | warb       | geworben    | e -> i  |
+| wiegen      | wog        | gewogen     |         |
+| wringen     | wrang      | gewrungen   |         |

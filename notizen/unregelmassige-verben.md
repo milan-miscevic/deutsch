@@ -70,6 +70,39 @@
 
 ## Ablautklasse 3
 
+### e - a - o
+
+| Infinitiv | Präteritum | Partizip II | Präsens |
+| --------- | ---------- | ----------- | ------- |
+| bergen    | barg       | geborgen    | e -> i  |
+| bersten   | barst      | geborsten   | e -> i  |
+| gelten    | galt       | gegolten    | e -> i  |
+| helfen    | half       | geholfen    | e -> i  |
+| schelten  | schalt     | gescholten  | e -> i  |
+| sterben   | starb      | gestorben   | e -> i  |
+| verderben | verdarb    | verdorben   | e -> i  |
+| werfen    | warf       | geworfen    | e -> i  |
+
+### e - o - o
+
+| Infinitiv | Präteritum | Partizip II | Präsens |
+| --------- | ---------- | ----------- | ------- |
+| dreschen  | drosch     | gedroschen  | e -> i  |
+| fechten   | focht      | gefochten   | e -> i  |
+| flechten  | flocht     | geflochten  | e -> i  |
+| quellen   | quoll      | gequollen   | e -> i  |
+| schmelzen | schmolz    | geschmolzen | e -> i  |
+| schwellen | schwoll    | geschwollen | e -> i  |
+
+### i - a - o
+
+| Infinitiv | Präteritum | Partizip II | Präsens |
+| --------- | ---------- | ----------- | ------- |
+| beginnen  | begann     | begonnen    |         |
+| gewinnen  | gewann     | gewonnen    |         |
+| rinnen    | rann       | geronnen    |         |
+| schwimmen | schwamm    | geschwommen |         |
+
 ### i - a - u
 
 | Infinitiv    | Präteritum | Partizip II  | Präsens |
@@ -91,37 +124,29 @@
 | verschwinden | verschwand | verschwunden |         |
 | zwingen      | zwang      | gezwungen    |         |
 
-### i - a - o
+## Ablautklasse 4
+
+### e (ä) - a - o
 
 | Infinitiv | Präteritum | Partizip II | Präsens |
 | --------- | ---------- | ----------- | ------- |
-| beginnen  | begann     | begonnen    |         |
-| gewinnen  | gewann     | gewonnen    |         |
-| rinnen    | rann       | geronnen    |         |
-| schwimmen | schwamm    | geschwommen |         |
-
-### e - o - o
-
-| Infinitiv | Präteritum | Partizip II | Präsens |
-| --------- | ---------- | ----------- | ------- |
-| dreschen  | drosch     | gedroschen  | e -> i  |
-| fechten   | focht      | gefochten   | e -> i  |
-| flechten  | flocht     | geflochten  | e -> i  |
-| quellen   | quoll      | gequollen   | e -> i  |
-| schmelzen | schmolz    | geschmolzen | e -> i  |
-| schwellen | schwoll    | geschwollen | e -> i  |
+| befehlen  | befahl     | befohlen    | e -> ie |
+| brechen   | brach      | gebrochen   | e -> i  |
+| gebären   | gebar      | geboren     | ä -> ie |
+| nehmen    | nahm       | genommen    | e -> i  |
+| schrecken | schrack    | geschrocken | e -> i  |
+| sprechen  | sprach     | gesprochen  | e -> i  |
+| stehlen   | stahl      | gestohlen   | e -> ie |
+| treffen   | traf       | getroffen   | e -> i  |
 
 ##
 
 | Infinitiv   | Präteritum | Partizip II | Präsens            |
 | ----------- | ---------- | ----------- | ------------------ |
 | backen      | backte/buk | gebacken    | a -> ä             |
-| befehlen    | befahl     | befohlen    | e -> ie            |
-| bergen      | barg       | geborgen    | e -> i             |
 | bitten      | bat        | gebeten     |                    |
 | blasen      | blies      | geblasen    | a -> ä             |
 | braten      | briet      | gebraten    | a -> ä             |
-| brechen     | brach      | gebrochen   | e -> i             |
 | brennen     | brannte    | gebrannt    |                    |
 | bringen     | brachte    | gebracht    |                    |
 | denken      | dachte     | gedacht     |                    |
@@ -135,10 +160,8 @@
 | fangen      | fing       | gefangen    | a -> ä             |
 | fressen     | fraß       | gefressen   | e -> i             |
 | gären       | gor        | gegoren     |                    |
-| gebären     | gebar      | geboren     | ä -> ie            |
 | geben       | gab        | gegeben     | e -> i             |
 | gehen       | ging       | gegangen    |                    |
-| gelten      | galt       | gegolten    | e -> i             |
 | genesen     | genas      | genesen     |                    |
 | geschehen   | geschah    | geschehen   | e -> ie            |
 | graben      | grub       | gegraben    | a -> ä             |
@@ -148,7 +171,6 @@
 | hauen       | haute      | gehauen     |                    |
 | heben       | hob        | gehoben     |                    |
 | heißen      | hieß       | geheißen    |                    |
-| helfen      | half       | geholfen    | e -> i             |
 | kennen      | kannte     | gekannt     |                    |
 | kneifen     | kniff      | gekniffen   |                    |
 | kommen      | kam        | gekommen    |                    |
@@ -163,7 +185,6 @@
 | misslingen  | misslang   | misslungen  |                    |
 | mögen       | mochte     | gemocht     | ö -> a (Singular)  |
 | müssen      | musste     | gemusst     | ü -> u (Singular)  |
-| nehmen      | nahm       | genommen    | e -> i             |
 | nennen      | nannte     | genannt     |                    |
 | preisen     | pries      | gepriesen   |                    |
 | raten       | riet       | geraten     | a -> ä             |
@@ -171,7 +192,6 @@
 | rufen       | rief       | gerufen     |                    |
 | saufen      | soff       | gesoffen    | a -> ä             |
 | schaffen    | schuf      | geschaffen  |                    |
-| schelten    | schalt     | gescholten  | e -> i             |
 | scheren     | schor      | geschoren   |                    |
 | schinden    | schindete  | geschunden  |                    |
 | schlafen    | schlief    | geschlafen  | a -> ä             |
@@ -183,23 +203,17 @@
 | sitzen      | saß        | gesessen    |                    |
 | sollen      | sollte     | gesollt     |                    |
 | spinnen     | spann      | gesponnen   |                    |
-| sprechen    | sprach     | gesprochen  | e -> i             |
 | stechen     | stach      | gestochen   | e -> i             |
 | stehen      | stand      | gestanden   |                    |
-| stehlen     | stahl      | gestohlen   | e -> ie            |
-| sterben     | starb      | gestorben   | e -> i             |
 | tragen      | trug       | getragen    | a -> ä             |
-| treffen     | traf       | getroffen   | e -> i             |
 | treten      | trat       | getreten    | e -> i (+tt)       |
 | trügen      | trog       | getrogen    |                    |
 | tun         | tat        | getan       |                    |
-| verderben   | verdarb    | verdorben   | e -> i             |
 | vergessen   | vergaß     | vergessen   | e -> i             |
 | wachsen     | wuchs      | gewachsen   | a -> ä             |
 | waschen     | wusch      | gewaschen   | a -> ä             |
 | werben      | warb       | geworben    | e -> i             |
 | werden      | wurde      | geworden    | unregelmäßig       |
-| werfen      | warf       | geworfen    | e -> i             |
 | wiegen      | wog        | gewogen     |                    |
 | wissen      | wusste     | gewusst     | i -> ei (Singular) |
 | wollen      | wollte     | gewollt     | o -> i (Singular)  |

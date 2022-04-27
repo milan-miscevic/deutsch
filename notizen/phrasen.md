@@ -12,6 +12,7 @@
 * folgen + Dativ
 * im Internet
 * im Norden/Osten/Süden/Westen
+* im Unterricht
 * in der Regel
 * infrage kommen
 * jemandem die Daumen drücken
@@ -19,7 +20,9 @@
 * mit einiger Mühe
 * sich merken + Dativ
 * vor Neugier sterben
+* vor Ort
 * zu Gast sein (Er ist in Berlin zu Gast)
 * zum Schweigen bringen
 * zur gleichen Zeit
 * zur Kenntnis nehmen
+* zur Sicherheit

@@ -54,4 +54,22 @@ document.addEventListener('DOMContentLoaded', function () {
     });
   })
 
+  document.querySelectorAll('p.types > span').forEach(function (el) {
+    el.addEventListener('mouseover', function (el) {
+      if (el.target.tagName === 'SPAN') {
+        el.target.classList.add('highlight');
+      }
+      var typeEl = document.querySelectorAll('#examples span[data-type=' + el.target.dataset.type + ']');
+      typeEl.forEach(function(item) {
+        item.classList.add('highlight');
+      });
+    });
+    el.addEventListener('mouseleave', function (el) {
+      el.target.classList.remove('highlight');
+      var typeEl = document.querySelectorAll('#examples span[data-type=' + el.target.dataset.type + ']');
+      typeEl.forEach(function(item) {
+        item.classList.remove('highlight');
+      });
+    });
+  })
 });

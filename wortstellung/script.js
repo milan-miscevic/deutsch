@@ -35,7 +35,7 @@ document.addEventListener('DOMContentLoaded', function () {
 
     var a = document.createElement('a');
     a.href = example['source'];
-    a.innerText = 'Source';
+    a.innerText = 'Quelle';
     p.appendChild(a);
 
     rendered.appendChild(p);

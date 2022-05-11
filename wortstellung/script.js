@@ -1,18 +1,18 @@
 document.addEventListener('DOMContentLoaded', function () {
 
   wordOrder = [
-    'subject',
+    'subjekt',
     'verb',
     'sich',
     'es-das',
     'personal',
-    'time',
+    'wann',
     'nicht-1',
-    'manner',
-    'indirect',
-    'direct',
+    'wie',
+    'indirekt',
+    'direkt',
     'nicht-2',
-    'last',
+    'ende',
     'zu-verb',
     'todo'
   ];

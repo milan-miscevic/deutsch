@@ -5,6 +5,7 @@
 * auf der Flucht
 * aus Versehen
 * bei einem gemeinsamen Termin
+* den Mund halten
 * ein Auge zudrücken
 * einen Besuch abstatten
 * es geht um
@@ -19,6 +20,7 @@
 * mit Absicht
 * mit einiger Mühe
 * sich merken + Dativ
+* von 2 EUR auf 5 EUR
 * vor Neugier sterben
 * vor Ort
 * zu Gast sein (Er ist in Berlin zu Gast)

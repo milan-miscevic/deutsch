@@ -86,5 +86,11 @@ const examples = [
     'wann': 'niemals',
     'ende': 'trauen',
     'source': 'https://www.bayerische-staatszeitung.de/staatszeitung/leben-in-bayern/detailansicht-leben-in-bayern/artikel/ich-selbst-wuerde-mich-das-niemals-trauen.html#topPosition',
+  }, {
+    'subjekt': 'Lukas',
+    'verb': 'bohrt',
+    'direkt': 'ein Loch',
+    'wo': 'in die Wand',
+    'source': 'https://www.instagram.com/p/CdD74LHox93/',
   }
 ];

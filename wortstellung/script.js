@@ -12,6 +12,7 @@ document.addEventListener('DOMContentLoaded', function () {
     'indirekt',
     'direkt',
     'nicht-2',
+    'wo',
     'ende',
     'zu-verb',
     'todo'

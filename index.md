@@ -7,6 +7,7 @@
 
 ## Notizen
 
+* [Adjektivdeklinationen](notizen/adjektivdeklinationen.md)
 * [Konjunktionen](notizen/konjunktionen.md)
 * [Phrasen](notizen/phrasen.md)
 * [Präpositionen](notizen/prapositionen.md)

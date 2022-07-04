@@ -12,6 +12,7 @@
 * ein Auge zudrücken
 * einen Besuch abstatten
 * es geht um
+* etwa um
 * etwas im Griff haben
 * folgen + Dativ
 * im ganzen Stadion

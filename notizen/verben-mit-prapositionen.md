@@ -3,6 +3,7 @@
 * abhängen von
 * bestehen aus
 * denken an + Akk
+* erinnern an
 * erzählen von
 * fragen nach
 * gehören zu

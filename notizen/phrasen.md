@@ -15,6 +15,7 @@
 * etwa um
 * etwas im Griff haben
 * folgen + Dativ
+* Hose hochziehen
 * im ganzen Stadion
 * im Internet
 * im Norden/Osten/Süden/Westen
@@ -25,7 +26,9 @@
 * mit Absicht
 * mit einiger Mühe
 * sagen bescheid (sag mir bescheid)
+* Schutz vor
 * sich merken + Dativ
+* ums Leben kommen
 * vom Knochen abfallen
 * von 2 EUR auf 5 EUR
 * vor kurzem

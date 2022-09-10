@@ -3,9 +3,14 @@ var unmatched = 0;
 var total = 0;
 
 var toLearn = {
+  'CD-ROM': 'die',
   'E-Mail': 'die', // die Post, die Nachricht
+  Auge: 'das',
   CD: 'die',
+  Ende: 'das',
   Erlaubnis: 'die',
+  Interesse: 'das',
+  Knie: 'das',
 };
 
 var meanings = {
@@ -13,6 +18,7 @@ var meanings = {
   female: 'die',
   foreign: 'das',
   male: 'der',
+  material: 'das',
 };
 
 var endings = [
@@ -60,6 +66,11 @@ for (const [word, meta] of Object.entries(nouns)) {
       correct++;
       continue outer;
     }
+  }
+
+  if (word.startsWith('Ge') && meta[0] === 'das') {
+    correct++;
+    continue;
   }
 
   if (meta[0] === 'der') {

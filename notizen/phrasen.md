@@ -5,6 +5,7 @@
 * auf dem Land(e)
 * auf der Flucht
 * auf der ganzen Welt
+* auf eigene Gefahr
 * aus einem Grund
 * aus Versehen
 * bei einem gemeinsamen Termin
@@ -34,6 +35,7 @@
 * vor kurzem
 * vor Neugier sterben
 * vor Ort
+* zu diesem Schluss kommt
 * zu Gast sein (Er ist in Berlin zu Gast)
 * zum Schweigen bringen
 * zur gleichen Zeit

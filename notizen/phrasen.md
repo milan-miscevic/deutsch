@@ -37,6 +37,7 @@
 * vor Ort
 * zu diesem Schluss kommt
 * zu Gast sein (Er ist in Berlin zu Gast)
+* zum ersten Mal / das erste Mal
 * zum Schweigen bringen
 * zur gleichen Zeit
 * zur Kenntnis nehmen

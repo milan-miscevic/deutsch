@@ -19,6 +19,7 @@ var meanings = {
   foreign: 'das',
   male: 'der',
   material: 'das',
+  plural: 'die',
 };
 
 var endings = [

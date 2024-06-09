@@ -14,11 +14,11 @@ var toLearn = {
 };
 
 var meanings = {
-  compass: 'der',
+  cardinalDirection: 'der',
   female: 'die',
   foreign: 'das',
   male: 'der',
-  material: 'das',
+  material: 'das', // @todo
   plural: 'die',
 };
 

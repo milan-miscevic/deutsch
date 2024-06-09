@@ -755,7 +755,7 @@ var nouns = {
   Nerv: ["der", null, ""],
   Nichte: ["die", null, "female"],
   Nichtraucher: ["der", null, "Raucher"],
-  Norden: ["der", null, "compass"],
+  Norden: ["der", null, "cardinalDirection"],
   Not: ["die", null, ""],
   Notaufnahme: ["die", null, ""],
   Note: ["die", null, ""],

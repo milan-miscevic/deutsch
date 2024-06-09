@@ -24,22 +24,40 @@ var meanings = {
 
 var endings = [
   ['schaft', 'die'],
+
+  ['ismus', 'der'],
+
   ['chen', 'das'],
   ['heit', 'die'],
   ['keit', 'die'],
   ['lein', 'das'],
+  ['ling', 'der'],
+  ['ment', 'das'],
+
+  ['ade', 'die'],
+  ['age', 'die'],
+  ['anz', 'die'],
   ['enz', 'die'],
   ['ion', 'die'],
+  ['ist', 'der'],
   ['nis', 'das'],
   ['tät', 'die'],
+  ['tum', 'das'],
   ['ung', 'die'],
+
   ['ei', 'die'],
   ['en', 'das'],
+  ['er', 'der'],
   ['ie', 'die'],
   ['ik', 'die'],
+  ['in', 'die'],
+  ['or', 'der'],
   ['um', 'das'],
   ['ur', 'die'],
+
   ['e', 'die'],
+  ['o', 'das'],
+  ['t', 'die'],
 ];
 
 outer:

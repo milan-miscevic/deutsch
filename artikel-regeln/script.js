@@ -14,12 +14,15 @@ var toLearn = {
 };
 
 var meanings = {
-  cardinalDirection: 'der',
+  compassDirection: 'der',
   female: 'die',
   foreign: 'das',
+  fruitFlower: 'die', // sometimes
   male: 'der',
   material: 'das', // @todo
+  number: 'die',
   plural: 'die',
+  vegetable: 'die',
 };
 
 var endings = [
@@ -33,6 +36,7 @@ var endings = [
   ['lein', 'das'],
   ['ling', 'der'],
   ['ment', 'das'],
+  ['tion', 'die'],
 
   ['ade', 'die'],
   ['age', 'die'],
@@ -41,16 +45,21 @@ var endings = [
   ['ion', 'die'],
   ['ist', 'der'],
   ['nis', 'das'],
+  ['sal', 'das'],
   ['tät', 'die'],
   ['tum', 'das'],
   ['ung', 'die'],
 
   ['ei', 'die'],
+  ['em', 'das'],
   ['en', 'das'],
   ['er', 'der'],
+  ['et', 'das'],
+  ['ett', 'das'],
   ['ie', 'die'],
   ['ik', 'die'],
   ['in', 'die'],
+  ['ma', 'das'],
   ['or', 'der'],
   ['um', 'das'],
   ['ur', 'die'],

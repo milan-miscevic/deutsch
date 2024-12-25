@@ -1,0 +1,16 @@
+var verbs = {
+  "ankommen": ["einen Ort erreichen, an einem Ort eintreffen"],
+  "ansehen": ["den Blick auf jemanden, etwas richten; ins Gesicht blicken, betrachten; etwas [aufmerksam, prüfend] betrachten (um es kennenzulernen)"],
+  "erfahren": ["durch eigenes Erleben kennen lernen"],
+  "verbringen": ["sich (für eine bestimmte Zeitdauer an einem Ort o. Ä.) aufhalten, verweilen; eine bestimmte Zeit (auf bestimmte Weise) zubringen, hinbringen; eine bestimmte Zeit auf etwas verwenden"],
+  "verdienen": ["als Entschädigung für geleistete Arbeit in Form von Lohn, Gehalt, Honorar o. Ä. erwerben; einen bestimmten Verdienst haben"],
+  "verfolgen": ["durch Hinterhergehen, -eilen zu erreichen [und einzufangen] suchen; jemandem zur Last fallen; jemanden bedrängen"],
+  "verheiraten": ["eine Ehe eingehen, die Ehe mit jemandem schließen; (jemandem) zur Ehe geben"],
+  "vermissen": ["sich mit Bedauern bewusst sein, dass jemand, etwas nicht mehr in der Nähe ist, nicht mehr zur Verfügung steht, und dies als persönlichen Mangel empfinden; das Fehlen von etwas bemerken"],
+  "verpacken": ["zum Transport (in etwas) packen, (in etwas) unterbringen"],
+  "verpassen": ["nicht rechtzeitig da sein, kommen und deshalb nicht erreichen, nicht antreffen; ungenutzt vorübergehen lassen, sich entgehen lassen"],
+  "verschlossen": ["[durch Ver- oder Zuschließen] unzugänglich gemacht; sehr zurückhaltend, in sich gekehrt; wortkarg"],
+  "verstecken": ["(jemanden, etwas) heimlich an einem unbekannten Ort unterbringen, sodass die Person oder Sache nicht gesehen wird"],
+  "verteilen": ["[aufteilen und in einzelnen Anteilen, Portionen o. Ä.] an mehrere Personen vergeben, austeilen; aufteilen und in gleicher Menge oder Anzahl an verschiedene Stellen bringen, legen, stellen usw., irgendwo unterbringen"],
+  "wegwerfen": ["etwas auf den Boden fallen und liegen lassen; etwas, was man nicht mehr braucht, in den Müll werfen"],
+};

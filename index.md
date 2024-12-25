@@ -3,6 +3,7 @@
 ## Interaktiv
 
 * [Artikel Spiel](artikel-spiel)
+* [Verb Spiel](verb-spiel)
 * [Wortstellung](wortstellung)
 
 ## Notizen

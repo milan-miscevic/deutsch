@@ -34,9 +34,12 @@ var verbs = {
   "verpacken": ["zum Transport (in etwas) packen, (in etwas) unterbringen"],
   "verpassen": ["nicht rechtzeitig da sein, kommen und deshalb nicht erreichen, nicht antreffen; ungenutzt vorübergehen lassen, sich entgehen lassen"],
   "verschlossen": ["[durch Ver- oder Zuschließen] unzugänglich gemacht; sehr zurückhaltend, in sich gekehrt; wortkarg"],
-  "versöhnen": ["mit jemandem nach einem Streit wieder Frieden schließen, sich vertragen; (zwei miteinander im Streit liegende Personen, Parteien) veranlassen, sich zu vertragen, Frieden zu schließen"],
-  "verstecken": ["(jemanden, etwas) heimlich an einem unbekannten Ort unterbringen, sodass die Person oder Sache nicht gesehen wird"],
-  "verteilen": ["[aufteilen und in einzelnen Anteilen, Portionen o. Ä.] an mehrere Personen vergeben, austeilen; aufteilen und in gleicher Menge oder Anzahl an verschiedene Stellen bringen, legen, stellen usw., irgendwo unterbringen"],
-  "vornehmen": ["nach vorn nehmen, bewegen"],
-  "wegwerfen": ["etwas auf den Boden fallen und liegen lassen; etwas, was man nicht mehr braucht, in den Müll werfen"],
+
+  "überzeugen": ["jemandem die Richtigkeit glaubhaft machen; reflexiv: sich vergewissern"],
+  "versöhnen": ["jemanden veranlassen, mit jemandem nach einem Streit wieder Frieden zu schließen; sich mit einem widrigen Umstand abfinden"],
+  "verstecken": ["transitiv, reflexiv: sich oder jemand anderen oder etwas an einen Ort bringen, der anderen nicht bekannt ist, wo man oder es nicht gesehen wird"],
+  "verteilen": ["mehreren Personen einen Teil von etwas geben"],
+  "vornehmen": ["etwas selbst ausführen oder stattfinden lassen; reflexiv: planen, etwas in der Zukunft zu machen"],
+  "wegwerfen": ["etwas mit den Armen beschleunigen und so durch die Luft fliegen lassen, dass es sich vom Werfer wegbewegt; etwas im Müll oder in der freien Landschaft entsorgen"],
+  "zureden": ["jemanden ansprechen und versuchen, ihn davon zu überzeugen, etwas Bestimmtes zu tun"],
 };

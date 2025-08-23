@@ -10,7 +10,6 @@
 
 * [Adjektivdeklinationen](notizen/adjektivdeklinationen.md)
 * [Konjunktionen](notizen/konjunktionen.md)
-* [Phrasen](notizen/phrasen.md)
 * [Präpositionen](notizen/prapositionen.md)
 * [Textteile](notizen/textteile.md)
 * [Unregelmäßige Verben](notizen/unregelmassige-verben.md)

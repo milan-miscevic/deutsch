@@ -32,6 +32,7 @@ var endings = [
 
   ['chen', 'das'],
   ['erei', 'die'],
+  ['falt', 'die'],
   ['heit', 'die'],
   ['iker', 'der'],
   ['keit', 'die'],
@@ -51,6 +52,7 @@ var endings = [
   ['ent', 'der'],
   ['enz', 'die'],
   ['eur', 'der'],
+  ['ial', 'das'],
   ['ine', 'die'],
   ['ion', 'die'],
   ['ist', 'der'],

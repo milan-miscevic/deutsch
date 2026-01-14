@@ -17,6 +17,7 @@
     <span id="result">0 / 0 (0 %)</span> - <span id="lastWord">~</span>
     <br><br>
     <input type="hidden" id="gender" value="das">
+    <input type="hidden" id="wordRaw" value="Haus">
     <span id="word" class="word"><a href="https://en.wiktionary.org/wiki/Haus">Haus</a></span>
 </p>
 
@@ -25,6 +26,8 @@
     <button value="die" onClick="check('die')">die</button>
     <button value="das" onClick="check('das')">das</button>
 </p>
+
+<ul id="wrongWords"></ul>
 
 <script src="../database/nouns.js"></script>
 <script src="script.js"></script>

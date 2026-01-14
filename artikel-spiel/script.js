@@ -7,6 +7,8 @@ function check(guessedGender)
     var result = document.getElementById("result");
     var gender = document.getElementById("gender");
     var word = document.getElementById("word");
+    var wordRaw = document.getElementById("wordRaw");
+    var wrongWords = document.getElementById("wrongWords");
 
     // check and log
 
@@ -15,6 +17,10 @@ function check(guessedGender)
         correct++;
     } else {
         lastWord.style.color = '#ff0000';
+
+        const li = document.createElement('li');
+        li.textContent = gender.value + ' ' + wordRaw.value;
+        wrongWords.appendChild(li);
     }
 
     total++;
@@ -28,5 +34,6 @@ function check(guessedGender)
 
     lastWord.innerHTML = gender.value + ' ' + word.innerHTML;
     gender.value = nouns[key][0];
+    wordRaw.value = key;
     word.innerHTML = '<a href="https://en.wiktionary.org/wiki/' + key + '">' + key + '</a>';
 }

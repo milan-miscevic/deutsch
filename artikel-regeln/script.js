@@ -83,6 +83,7 @@ var endings = [
   ['or', 'der'],
   ['ör', 'der'],
   ['um', 'das'],
+  ['üm', 'das'],
   ['ur', 'die'],
 
   ['e', 'die'],

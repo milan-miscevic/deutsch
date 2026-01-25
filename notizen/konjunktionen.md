@@ -54,8 +54,13 @@ SOV (W-Fragen)
 Zweiteilige
 
 * (an)statt ... zu
+* einerseits ... andererseits
 * entweder ... oder
+* je ... desto / umso
+* ohne ... dass
+* ohne ... zu
 * sowohl ... als (auch)
-* sowohl ... wie (auch)
+* sowohl ... wie (auch) (umgangssprachlich)
 * um ... zu
 * weder ... noch
+* zwar ... aber
